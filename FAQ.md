@@ -33,6 +33,6 @@
 
 ## Contents
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [Code diary - click here to see my progress](./code-diary)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
