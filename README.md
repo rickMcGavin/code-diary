@@ -1,3 +1,21 @@
+# Personal Update to my #100DaysOfCode Challenge
+
+This is the repository for my second round of the #100DaysOfCode challenge. It will also contain any further rounds. 
+
+There will be a little more structure, so I can continue to keep organized while doing repeated rounds. 
+
+The most notable change will be that I am replacing the normal log.md file with a directory titled 'code-diary.' I will be breaking it down by rounds, and then further breaking the diary up on a weekly basis.
+
+Inside I will also be slightly changing the structure to a 
+
+### Today I Learned (TIL)
+
+### What I liked
+
+### What I didn't like
+
+_Below are the rest of the rules and info as forked from the original 100 Days Of Code repository by Ka11away._
+
 # I've joined the #100DaysOfCode Challenge.
 
 ## Contents
