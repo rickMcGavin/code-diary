@@ -20,7 +20,7 @@ _Below are the rest of the rules and info as forked from the original 100 Days O
 
 ## Contents
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [Code Diary - click here to see my progress](./code-diary)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
