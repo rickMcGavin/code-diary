@@ -1,5 +1,30 @@
 # Week of 5.1.17 - 5.7.17
 
+### May 3, 2017 - Wednesday
+
+### TIL
+
+What I learned today was actually rather fun and interesting. I need a modal for my Recipe Box app that will appear when the user tries to edit a recipe so the data can be changed. I referenced [Stephen Grider's Udemy Course](https://www.udemy.com/react-redux/) for this one. He teaches a really interesting way to build a modal. It seems kind of like a run around, but it makes sense, and you learn a little more about React and DOM manipulation.
+
+### What did I like?
+
+I rather enjoyed building the Modal. I can keep it plain and simple like that.
+
+### What didn't I like?
+
+I did not like that after I went through the trouble with the modal, I still wasn't able to update the data in my form. I think I cut Wes Bos's lesson on updating data a little short, and here I am. Guess what's worse? I think that was the problem all along. I think I could have kept my switching out edit and view mode component this whole time! It seems to be my function that updates the data upon editing that's broken. 😣 
+
+In a way that may be good news. Once I figure out how to build this damn thing, I can possibly remove the modal, and switch it back to the way I wanted all along. 
+
+**One more TIL:** I really should have learned my lesson and built it the way I knew would work _then_ play around with it making it look a little differently or function a little differently. I'm pretty sure I came across this realization 1-2 days ago, and almost immediately broke it and coded my way in to a mess again. 
+
+I'll figure it out tomorrow. Once I just get over this edit mode bump, it should be smooth sailing.
+
+**Link to work:**
+
+[Recipe Box](https://github.com/rickMcGavin/recipe-box)
+
+
 ### May 2, 2017 - Tuesday
 
 ### TIL 
