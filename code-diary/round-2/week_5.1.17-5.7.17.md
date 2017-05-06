@@ -1,6 +1,24 @@
 # Week of 5.1.17 - 5.7.17
 
-### May 4, 2017 - Thursday
+## May 5, 2017 - Friday
+
+### TIL 
+
+I learned a lot. Over the past couple days trying to understand the issues with my recipe box, and why it hasn't been working how I want it to, I became much more proficient with the debugger when using React. I also learned that the Chrome Dev Tools has a dark theme 😯. Who knew? It's much easier on the eyes. 
+
+### What did I like?
+
+I liked setting up my original idea where I could flip between an edit view and a recipe view. I liked that I was able to rather easily figure out how to expand the recipe view contents. However that leads nicely to my next section.
+
+### What didn't I like?
+
+Believe me, I'm grateful to feel like I finally made some forward progress with this recipe box, but I still have some issues with it that I am not loving.
+
+I have a rather hacky Add Recipe box section. I hid a form to make it work the way it does now. I'm sure I can do better than that, but I'm going to figure that out later. Also, I am experiencing issues with the edit view and recipe view. If I click edit on one of them, it switches **all** of them to edit view. Same for when I expand a recipe. If I click to expand one of them, it expands **all** of them.
+
+Ultimately, I feel like these will be somewhat easy to fix. I hope it will be easier than the last issue I ran in to. 
+
+## May 4, 2017 - Thursday
 
 ### TIL
 
