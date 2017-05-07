@@ -1,5 +1,34 @@
 # Week of 5.1.17 - 5.7.17
 
+## May 6, 2017 - Saturday
+
+### TIL
+
+I definitely had a breakthrough today. I feel weird because I had all these TIL's from prior days that weren't entirely accurate, but I finally figured out what the hell was going on. 
+
+See, I was having this problem with both my edit portions of my component as well as viewing and hiding the contents of my recipes. If I clicked edit on one recipe, it changed state for every single recipe, and put them all in edit mode. Same for viewing contents of recipes. If I clicked to expand the contents of one recipes, it expanded the contents for **all** recipes. 
+
+Why was this happening? Because I was setting state on the entire recipe list container instead of each individual component. Once I moved these states in to the component level, **BOOM!** it worked on the individual component. This is so completely obvious now that I've realized it. However, it sure tripped me up for the _longest_ time. 
+
+I will say this though: I will not forget this lesson.
+
+Also, I learned how to persist my data with localStorage. I think achieved this really well considering. Currently it functions exactly as I want it to, but I do get a console error. Looks like I should set it up to delete from localStorage as well.
+
+### What did I like?
+
+I really liked learning about using localStorage. I think it's a very cool sort of level up feature that I hadn't learned until today. I enjoyed exploring how I could set and get the data and make it appear in my app how I wanted to.
+
+### What didn't I like? 
+
+I don't like how I had to make the app throw an error to work how I want it to work. There clearly has to be a better way. I'll work on that tomorrow.
+
+**Link to work:**
+
+[Recipe Box](https://github.com/rickMcGavin/recipe-box)
+
+[Recipe Box Production Build](https://rickmcgavin.github.io/recipe-box/)
+_Note: the production build on the day of writing this is a little behind, and won't even work quite as described in the log here._
+
 ## May 5, 2017 - Friday
 
 ### TIL 
