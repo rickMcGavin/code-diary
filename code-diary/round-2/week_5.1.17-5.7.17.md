@@ -1,5 +1,27 @@
 # Week of 5.1.17 - 5.7.17
 
+## May 7, 2017 - Sunday
+
+### TIL
+
+I learned how to delete items from localStorage. It was really easy. I intended for today a little bit easier. I have a lot to prepare for tomorrow. 
+
+### What did I like?
+
+I have an idea for my next React project. I found a sweet design for an IMDB interface. I want to take it and apply it similarly to a Marvel UI. I've been wanting to use that Marvel API for some time.
+
+I also fully finished the Recipe Box, but that was literally adding the one line where you can delete recipes.
+
+### What didn't I like?
+
+The only thing I didn't really like was that I felt a little distracted with my coding as I'm going over one of Stephen Grider's courses again as he just updated it to React Router 4 and new Redux Forms (redux? I think so, yes.)
+
+**Link to work:**
+
+[Recipe Box](https://github.com/rickMcGavin/recipe-box)
+
+[Recipe Box Production Build](https://rickmcgavin.github.io/recipe-box/)
+
 ## May 6, 2017 - Saturday
 
 ### TIL
