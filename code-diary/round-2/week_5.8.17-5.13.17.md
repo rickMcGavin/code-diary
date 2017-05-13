@@ -1,5 +1,19 @@
 # Week of 5.8.17 - 5.13.17
 
+## May 12, 2017 - Friday
+
+### TIL
+
+So far I'm working through the core concepts video section. I did the video on using Pug templates. It's really interesting. I like writing pug, but it's basically the same as writing emmet that you never need to press ctrl + e to convert to HTML.
+
+### What did I like?
+
+Middleware is super interesting. I like how you can control the data before giving a response to the user. 🤔
+
+### What didn't I like? 
+
+Wes seems to have a habit of setting a project up, and maybe not fully explaining it in my opinion. There's just so much done already. I can see myself reviewing this a lot.
+
 ## May 11, 2017 - Thursday
 
 Going to be working on Wes Bos's Node course. Since I got the offer, I may as well work on something I think I'll find fun and I've been dying to do for some time now anyway.
