@@ -1,5 +1,34 @@
 # Week of 5.8.17 - 5.13.17
 
+## May 13, 2017 - Saturday
+
+On one random note, I've decided to only do the first 7 modules of Wes Bos's node course. I have a few reasons for doing this: 
+
+- I do want to stay focused on the front end, and I want to grab a front end masters subscription and dig in to what they have to offer. Especially some of the more Advanced Vanilla JS courses, etc. 
+- I chose module 7 as a natural ending point because that is as far as Wes's simple package version of the course will take you. I bought the master package, but for now I will stop at module 7. This should both satisfy curiousity with node and backend and allow me to get back to focusing on front end development.
+
+### TIL
+
+As I'm going through Wes's node course in regards to Module #3 Database Storage. I learned how to create a store model, which is the schema. This way info in the database is essentially standardized. Random info won't necessarily be inserted that was unexpected.
+
+The other section he teaches is in regards to building the UI with Pug using a mixin.
+
+I also learned about middleware, which was actually really cool.
+
+I learned how to use Async/Await and how to store data to a database!
+
+### What did I like?
+
+So far, I do like that I'm moving in to building the actual app. I really enjoyed learning the concept of Middleware. Wes had a diagram that explained it, and I got to play around with it a little bit making my own silly middleware functions.
+
+I loved using Async/Await. That's exactly what JavaScript needed in my opinion. Callbacks had a tendency to drive me nuts sometimes. I often wondered why couldn't I just do something like tell JavaScript to wait until one thing was finished before starting another specific command. Well, apparently it's here with Async/Await, and it's amazing.
+
+### What didn't I like?
+
+I'm not a huge fan of Jade/Pug. I never care much for writing HTML in a templating language like Pug or HAML. That's just me though. I may one day learn to enjoy it. I'm not there yet though.
+
+Again, I am not a fan of how much Wes has already done for us. I get that it's to focus on the backend, but honestly, I would prefer to build the whole damn thing from the ground up. I like that Wes wants a really nicely designed app at the end of the course, but I almost prefer when someone like Stephen Grider just throws bootstrap on it instead, but still walks you through all of it. At least I don't get the feeling that maybe I'm missing out something.
+
 ## May 12, 2017 - Friday
 
 ### TIL
