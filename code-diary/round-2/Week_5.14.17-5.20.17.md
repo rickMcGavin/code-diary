@@ -1,5 +1,21 @@
 # Week of 5.14.17 - 5.20.17
 
+## May 17, 2017 - Wednesday
+
+### TIL
+
+I picked up the Front End Master's subscription. So far, absolutely no regrets. I've been taking the Advanced JavaScript course by Kyle Simpson. First, this is a little more robust than the free version they offer I've realized. 
+
+I learned and refreshed on somethings I knew, especially regarding scope. I have a strong grasp on scope. Some of the extras I picked up were found in his resources. He advised using the ECMA spec more. I never would have thought of this. He walked through some examples, and it does spell a lot out. You can tell that he basically distilled a lot of his knowledge from the ECMA spec. 
+
+### What did I like?
+
+I like how the course is in a heavy lecture format right now. I could use a course that isn't necessarily a code along. I am definitely interested in learning this more deeply, and it's nowhere near as dry as the YDKJS books. Kyle is a great instructor in person. That did not seem to translate to his book series, which is fine.
+
+### What didn't I like?
+
+Nothing! hah first time ever.
+
 ## May 16, 2017 - Tuesday
 
 ### TIL
