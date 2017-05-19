@@ -1,5 +1,25 @@
 # Week of 5.14.17 - 5.20.17
 
+## May 18, 2017 - Thursday
+
+### TIL
+
+__Compiling function scope__
+
+Scope Resolution & Compilation phase
+Execution phase
+
+Left hand side (LHS) is the target 
+Right Hand Side (RHS) is the source
+
+### What did I like?
+
+I liked stepping through the code and determining how JavaScript would compile it. It was far more beneficial to do this in a video than the way it is done in YDKJS.
+
+### What didn't I like?
+
+I got a little distracted looking at this CLT Junior Devs page. I should really contribute to this bad boy.
+
 ## May 17, 2017 - Wednesday
 
 ### TIL
