@@ -1,5 +1,31 @@
 # Week of 5.14.17 - 5.20.17
 
+## May 19, 2017 - Friday
+
+Still working my way through the Front End Masters course by Kyle Simpson called Advanced JavaScript. It really does seem to be the video course version of YDKJS, and it's fantastic. You can get through it quicker than reading the book series, and it is **much** easier to understand.
+
+### TIL
+
+Function Declaration and function expression
+
+A declaration has the 'function' keyword as the first word in the statement.
+
+Function expressions are often used as anonymous functions. _I think I remember the AirBnB style guide stating you should only write function expressions_. When you name them it is interesting how you'll get a keyword to call the function for the outer scope, and a separate keyword for the inner scope. I can see how that would be beneficial. 
+
+eval() and with should largely be avoided. In strict mode the with keyword is **disabled**.
+
+let keyword vs. var keyword. They var keyword could be best to use when you want to bind to the function. The let keyword could be best when you want to bind to the block.
+
+### What did I like?
+
+I like better understanding when it may be appropriate to use var and when it may be most appropriate to use let. At this time, I basically only use let though. I will have to see if the situation presents itself where I'd want to bind to the function and not the block.
+
+I love the way Kyle slowly walks you through his code examples. I can tell now how the books were supposed to be presented, but being forced to slow down and think about how a piece of code is compiled and executed is a practice much better done live.
+
+### What didn't I like?
+
+Still nothing. Love this front end masters course.
+
 ## May 18, 2017 - Thursday
 
 ### TIL
