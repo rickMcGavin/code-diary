@@ -1,5 +1,23 @@
 # Week of 5.14.17 - 5.20.17
 
+## May 20, 2017 - Saturday
+
+
+
+### TIL
+
+the 'let' keyword does not hoist. 
+
+Hoisting. Declarations are handled during the compile phase, and it is thought of that they are _hoisted_ 
+
+### What did I like?
+
+I continue to enjoy the video presentation of the advanced JS concepts. Things I thought I had a grasp on become even clearer now like hosting and the subtleties of the let keyword.
+
+### What didn't I like?
+
+Mostly the first exercise. It wasn't as good a I was hoping, but served its purpose in firming the knowledge thus far.
+
 ## May 19, 2017 - Friday
 
 Still working my way through the Front End Masters course by Kyle Simpson called Advanced JavaScript. It really does seem to be the video course version of YDKJS, and it's fantastic. You can get through it quicker than reading the book series, and it is **much** easier to understand.
